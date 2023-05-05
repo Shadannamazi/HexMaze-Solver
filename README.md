@@ -1,6 +1,6 @@
 # HexMaze-Solver
 
-Generates a HexBoard with HexCells consisting of hexagons with axial coordinates and solves the maze via DFS.
+Generates a HexBoard with HexCells consisting of hexagons with axial coordinates and solves the maze via DFS
 
 ![r=15](https://user-images.githubusercontent.com/89245846/235605163-8e29a7b9-6fbc-4f95-8b53-c8e388c8c0b7.png)
 
